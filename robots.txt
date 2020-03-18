@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiyoochoh.michaelboke.nl/sitemap.xml
